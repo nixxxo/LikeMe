@@ -1,5 +1,5 @@
 
-export default function SignIn({  }) {
+export default function Profile({  }) {
   return (
     <div>
 
